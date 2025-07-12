@@ -1,5 +1,6 @@
 ## FATAL ERROR: 
-Ineffective mark-compacts near heap limit Allocation failed - JavaScript heap out of memory.  
+Ineffective mark-compacts near heap limit Allocation failed.    
+JavaScript heap out of memory.  
 
 ## (By: az  bytes)
 YouTube url: 
