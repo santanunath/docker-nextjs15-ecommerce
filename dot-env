@@ -1,5 +1,4 @@
 DATABASE_URL="mongodb+srv://santanu62:bapon62@cluster0.69pkl0k.mongodb.net/pharmadb?retryWrites=true&w=majority&appName=Cluster0"
-# used in /src/lib/db/index.ts
 
 # ----------------------
 # DATABASE_URL (used in /src/lib/db/index.ts)
