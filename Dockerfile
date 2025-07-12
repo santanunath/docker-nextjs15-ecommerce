@@ -8,4 +8,4 @@ RUN npm install
 
 COPY .  .
 
-RUN npm run build  #for production environment 
+RUN npm run build  #creates optimised PRODUCTION build
