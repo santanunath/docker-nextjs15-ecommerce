@@ -1,10 +1,10 @@
-DATABASE_URL="mongodb+srv://santanu62:bapon62@cluster0.69pkl0k.mongodb.net/pharmadb?retryWrites=true&w=majority&appName=Cluster0"
+DATABASE_URL="mongodb+srv://santanu62:bapon62@cluster0.69pkl0k.mongodb.net/test_db?retryWrites=true&w=majority&appName=Cluster0"
 
 # ----------------------
 # DATABASE_URL (used in /src/lib/db/index.ts)
 # username: santanu62
 # password: bapon62
-# database: pharmadb
+# database: test_db
 # tablenames: order, product, review, user (defined in /src/lib/db/models/)
 # ----------------------
 
